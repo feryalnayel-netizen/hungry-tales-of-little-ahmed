@@ -17,6 +17,7 @@
     {"name":"inst_4CCE0FD9","path":"rooms/secondlevel/secondlevel.yy",},
     {"name":"inst_34C9C406","path":"rooms/secondlevel/secondlevel.yy",},
     {"name":"inst_57C22EB2","path":"rooms/secondlevel/secondlevel.yy",},
+    {"name":"inst_1496042E","path":"rooms/secondlevel/secondlevel.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -32,6 +33,7 @@
         {"$GMRInstance":"v4","%Name":"inst_4CCE0FD9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4CCE0FD9","objectId":{"name":"flowers","path":"objects/flowers/flowers.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":384.0,},
         {"$GMRInstance":"v4","%Name":"inst_34C9C406","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_34C9C406","objectId":{"name":"Object11","path":"objects/Object11/Object11.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.5,"x":192.0,"y":320.0,},
         {"$GMRInstance":"v4","%Name":"inst_57C22EB2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_57C22EB2","objectId":{"name":"camera","path":"objects/camera/camera.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":992.0,"y":608.0,},
+        {"$GMRInstance":"v4","%Name":"inst_1496042E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1496042E","objectId":{"name":"killblock2","path":"objects/killblock2/killblock2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":31.0,"scaleY":1.0,"x":0.0,"y":1536.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
