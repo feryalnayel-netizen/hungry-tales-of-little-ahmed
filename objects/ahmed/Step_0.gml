@@ -1,6 +1,7 @@
 //get input
 getcontrol();
 
+if place_meeting(x,y, KILLBLOCK3){room_goto(gameover3)}
 if place_meeting(x,y, killblock2){room_goto(gameover2)}
 if place_meeting(x,y, killblock){room_goto(GAMEOVER)}
 if place_meeting(x,y, Object11){room_goto(winscreen)}
